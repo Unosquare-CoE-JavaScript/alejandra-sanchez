@@ -1,4 +1,4 @@
-(assets/Alejandra Sanchez (1).png)
+![Name banner](assets/Alejandra Sanchez (1).png)
 Unosquare Center of excellence - Alejandra Sánchez
 
 This repository contains JS exercises made during the next courses: 
