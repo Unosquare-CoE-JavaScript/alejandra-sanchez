@@ -1,11 +1,47 @@
-Unosquare Center of excellence - Alejandra Sánchez
+![banner](assets/Banner-AlejandraSanchez.png)
 
-This repository contains JS exercises made during the next courses: 
+# Unosquare Center of excellence - Alejandra Sánchez
 
-	- Deep Javascript Foundations - Kyle Simpson
-	- Javascript: from fundamentals to functional JS, v2 - Bianca Gandolfo
-	- React - The Complete Guide (incl Hooks, React Router, Redux) - Maximilian Schwarzmuller
-	- The complete guide to advanced React component patterns - Ohans Emmanuel
-	- Testing React with jest and Testing Library - Bonnie Schulkin
- 
+This repository contains JavaScript exercises done in the following courses. You can access to each course by clicking on its title.
 
+------------
+
+
+#### [Deep Javascript Foundations - Kyle Simpson](/Deep javascript v3)
+Core pillars of the JavaScript language: JavaScript's types, how to convert between them, lexical scope and closure and objects oriented system (this, prototypes and classes)
+
+
+------------
+
+
+#### ![Javascript: from fundamentals to functional JS, v2 - Bianca Gandolfo](/JS Fundamentals to Functional)
+A deep dive into JavaScript and functional programming techniques. High-order functions, closures, scope, functional methods, promises and ES6+.
+
+
+------------
+
+
+#### ![React - The Complete Guide (incl Hooks, React Router, Redux) - Maximilian Schwarzmuller](/The React - Complete Guide)
+React.js from scratch. Hooks, Redux, React Routing, Animations, Next.js.
+
+
+------------
+
+
+#### ![ The complete guide to advanced React component patterns - Ohans Emmanuel](/Advanced Patterns)
+React reusable components without relying on if statements or props, Use of hooks & trusted advanced patterns.
+
+
+------------
+
+
+#### ![Testing React with jest and Testing Library - Bonnie Schulkin](/Testing with jest and Enzyme)
+Best practices for testing your apps with Jest and React Testing library.
+
+
+------------
+
+## Technology Stack:
+![Technology stack](assets/FrontendTools.png)
+
+![banner](assets/Backend.png)
